@@ -11,7 +11,7 @@ Line Clearing: Automatically detects and removes filled rows, increasing the pla
 
 Bomb Feature: Introduces a unique gameplay element where players can use bombs to clear multiple lines at once.
 
-AI Computer Play: Challenge yourself against an AI opponent that plays Tetris, providing a competitive experience.
+AI Computer Player: Challenge yourself against an AI opponent that plays Tetris, providing a competitive experience.
 
 Game Mechanics: Implements traditional Tetris rules, with increasing difficulty as more lines are cleared.
 
